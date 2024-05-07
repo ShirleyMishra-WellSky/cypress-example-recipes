@@ -6,8 +6,6 @@
 trigger:
 - master
 
-tags:
-  - excludecoverage
 
 pool:
   vmImage: ubuntu-latest
